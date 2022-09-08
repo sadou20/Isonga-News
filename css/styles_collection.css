@@ -1,0 +1,46 @@
+.jumbotron {
+  border-radius: 0;
+  /* padding-bottom: 200px; */
+}
+/* This is Treding News part */
+.treding_news {
+  padding-top: 10px;
+  background-color: rgba(165, 42, 42, 0.322);
+  height: 140px;
+}
+
+/* horizontal line */
+hr {
+  border: 2px black solid;
+  border-top: none;
+  margin: 0 0;
+}
+
+/* Typography */
+.heading_1 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+/* This is main content(text+aside) */
+.main_content {
+  background-color: rgba(42, 136, 165, 0.322);
+  height: 740px;
+}
+
+.text {
+  background-color: rgb(62, 10, 110);
+  float: left;
+  height: 740px;
+}
+
+/* This is aside part */
+aside {
+  background-color: rgb(110, 67, 10);
+  float: right;
+  height: 740px;
+}
+
+/* This is footer part */
+footer {
+  background-color: rgb(24, 161, 150);
+}
